@@ -1,8 +1,6 @@
-Hi there!
+Hi there!  
 I'm Ivan, a seasoned generalist, I guess. 🤷‍♂️
-
 ![Profile logo](logo_profile.png)
-
 **Facts**:
 - +20 years in software industry: consulting, data, cofounder and scale ups
 - Yes, I'm a VP of Engineering at [JOOR](https://joor.com/) and I have managed pretty large teams (~50 people)
