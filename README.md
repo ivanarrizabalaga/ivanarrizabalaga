@@ -15,4 +15,4 @@ I'm Ivan, a seasoned generalist, I guess. 🤷‍♂️
 **Elsewhere**:
 - Social stuff: nope (too noisy)
 - [LinkedIn](https://www.linkedin.com/in/ivanarrizabalaga/)
-- [Resume](https://www.getmanfred.com/profile/ivanarrizabalaga)
+- [Resume](https://ivanarrizabalaga.com)
